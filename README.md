@@ -6,6 +6,6 @@ This dating app uses a hidden elo system where other people in your dating pool 
 match with you. If they swipe right, regardless of whether you match, your elo will increase. If they
 swipe left, your elo will decrease. This aims to increase the number of matches per swipe the average user on
 the platform receieves.   
-
-
+  
+  
 ![alt text](https://i.postimg.cc/C1DxqK5F/Screenshot-Home.png "Homescreen")
