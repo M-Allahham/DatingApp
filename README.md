@@ -8,4 +8,4 @@ swipe left, your elo will decrease. This aims to increase the number of matches 
 the platform receieves.   
 
 
-![alt text](img/ScreenshotHome.png "Homescreen")
+![alt text](https://i.postimg.cc/C1DxqK5F/Screenshot-Home.png "Homescreen")
